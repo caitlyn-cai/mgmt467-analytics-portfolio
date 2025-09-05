@@ -11,3 +11,5 @@ A portfolio of data analytics projects for Purdue's MGMT 467.
 ## Notes
 - Data resides in BigQuery/Drive (no large raw files committed).
 - Notebooks include cost dry-run checks and validation notes as required.
+- ## Week 2.1
+- [Prompt Practice](notebooks/week2.1-prompt-practice.ipynb)
